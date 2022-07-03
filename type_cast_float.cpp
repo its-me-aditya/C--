@@ -9,5 +9,5 @@ int main (){
     cout<<a<< endl;
     float f =1.2;
     a=f;
-    cout<<a >> endl;
+    cout<<a << endl;
 }
