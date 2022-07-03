@@ -6,5 +6,5 @@ int main()
     char c;
     a=100
     c=a;
-    cout <<C<< endl;
+    cout <<c<< endl;
 }
